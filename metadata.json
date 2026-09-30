@@ -1,0 +1,6 @@
+{
+  "name": "FJ_Fire",
+  "description": "Exclusive Free Fire esports tournament platform. Play, Compete, Win with solo, squad & custom matches, live room credentials, verified rewards, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
